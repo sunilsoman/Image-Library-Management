@@ -1,0 +1,12 @@
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImagePresentationLibrary.dll.config
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImagePresentationLibrary.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImagePresentationLibrary.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\obj\Debug\ImagePresentationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\obj\Debug\ImagePresentationLibrary.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\obj\Debug\ImagePresentationLibrary.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageDetails.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageLibraryDAL.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageDetails.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageLibraryDAL.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageManagementException.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImagePresentationLibrary\bin\ImageManagementException.pdb

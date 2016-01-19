@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLibraryDAL", "ImageLibraryDAL\ImageLibraryDAL.csproj", "{B5E12AE3-01A8-40B0-B5DD-8E6612A3FACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEntity", "ImageDetails\ImageEntity.csproj", "{C25C605E-1D74-4E51-AEE3-539EA2D247F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePresentationLibrary", "ImagePresentationLibrary\ImagePresentationLibrary.csproj", "{CC72AED1-4C97-4DEC-8891-FEECC7402B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagementTest", "ImageManagementTest\ImageManagementTest.csproj", "{B21F13B5-DB54-401D-B2AA-9EC7E2D3DEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagementException", "ImageManagementException\ImageManagementException.csproj", "{B58544AA-0BFF-48E9-9E9E-A7D146B89217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E12AE3-01A8-40B0-B5DD-8E6612A3FACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E12AE3-01A8-40B0-B5DD-8E6612A3FACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E12AE3-01A8-40B0-B5DD-8E6612A3FACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E12AE3-01A8-40B0-B5DD-8E6612A3FACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25C605E-1D74-4E51-AEE3-539EA2D247F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25C605E-1D74-4E51-AEE3-539EA2D247F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25C605E-1D74-4E51-AEE3-539EA2D247F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25C605E-1D74-4E51-AEE3-539EA2D247F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC72AED1-4C97-4DEC-8891-FEECC7402B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC72AED1-4C97-4DEC-8891-FEECC7402B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC72AED1-4C97-4DEC-8891-FEECC7402B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC72AED1-4C97-4DEC-8891-FEECC7402B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21F13B5-DB54-401D-B2AA-9EC7E2D3DEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21F13B5-DB54-401D-B2AA-9EC7E2D3DEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21F13B5-DB54-401D-B2AA-9EC7E2D3DEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21F13B5-DB54-401D-B2AA-9EC7E2D3DEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58544AA-0BFF-48E9-9E9E-A7D146B89217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58544AA-0BFF-48E9-9E9E-A7D146B89217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58544AA-0BFF-48E9-9E9E-A7D146B89217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58544AA-0BFF-48E9-9E9E-A7D146B89217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

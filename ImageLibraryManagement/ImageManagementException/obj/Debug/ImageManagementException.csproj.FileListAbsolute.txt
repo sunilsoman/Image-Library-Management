@@ -1,0 +1,5 @@
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementException\bin\Debug\ImageManagementException.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementException\bin\Debug\ImageManagementException.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementException\obj\Debug\ImageManagementException.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementException\obj\Debug\ImageManagementException.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementException\obj\Debug\ImageManagementException.pdb

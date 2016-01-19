@@ -1,0 +1,14 @@
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\ImageLibraryDAL.dll.config
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\ImageLibraryDAL.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\ImageLibraryDAL.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\EntityFramework.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\ImageDetails.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\nunit.framework.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\ImageDetails.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\EntityFramework.xml
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\bin\Release\nunit.framework.xml
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\obj\Release\ImageLibraryDAL.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\obj\Release\ImageLibraryDAL.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageLibraryDAL\obj\Release\ImageLibraryDAL.pdb

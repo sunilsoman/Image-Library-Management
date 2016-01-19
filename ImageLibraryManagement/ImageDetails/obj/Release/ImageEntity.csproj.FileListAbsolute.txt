@@ -1,0 +1,4 @@
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageDetails\bin\Release\ImageDetails.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageDetails\bin\Release\ImageDetails.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageDetails\obj\Release\ImageDetails.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageDetails\obj\Release\ImageDetails.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageManagementTest.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageManagementTest.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageDetails.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageLibraryDAL.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\nunit.framework.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageDetails.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\bin\Debug\ImageLibraryDAL.pdb
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\obj\Debug\ImageManagementTest.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\obj\Debug\ImageManagementTest.dll
+C:\Users\Sunil\documents\visual studio 2013\Projects\ImageLibraryManagement\ImageManagementTest\obj\Debug\ImageManagementTest.pdb
